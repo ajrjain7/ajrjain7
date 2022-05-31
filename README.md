@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajrjain7
 - 👀 I’m interested in software product development for making a better world
-- 🌱 I’m currently learning docker , big data , aws cloud, AI & ML
+- 🌱 I’m professional Big Data Software Designer & Coder, also learning docker , aws cloud & DSA.
 - 💞️ I’m looking to collaborate on cloud application development
 - 📫 How to reach me mail or message me
 
